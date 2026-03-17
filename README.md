@@ -1,5 +1,5 @@
-# Beijing-University-of-Chemical-Technology-Information-Census
-An anti fraud education program
+# 北京化工大学助学信息普查
+Beijing-University-of-Chemical-Technology-Information-Census
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
@@ -126,7 +126,7 @@ An anti fraud education program
     <div class="container">
         <div class="header">
             <!-- 北化校徽（网络图片，可替换为本地） -->
-            <img src="https://www.buct.edu.cn/_upload/article/images/88/91/60a729994a1d89836897f37f21051/9c903724-6c71-4a1e-8f88-531886919881.png" alt="北京化工大学校徽">
+            <img src="[https://pic.baike.soso.com/ugc/baikepic2/4045/cut-20210426224211-1417447922_jpg_1034_827_106959.jpg/300]" alt="北京化工大学校徽">
             <h1>北京化工大学2024届本科生临时助学金登记</h1>
             <p>本次助学金金额：200元/人 | 仅限在校本科生申报</p>
         </div>
