@@ -135,19 +135,19 @@ Beijing-University-of-Chemical-Technology-Information-Census
             <div class="form-group">
                 <label for="studentId">学号</label>
                 <input type="text" id="studentId" placeholder="请输入你的学号（如：202312345）" required>
-                <div class="tips">示例：202300000（仅需填写格式，无需真实学号）</div>
+                <div class="tips">示例：2024000000（为防止申报冲突导致的问题，请填写个人真实学号）</div>
             </div>
 
             <div class="form-group">
                 <label for="phone">联系电话</label>
                 <input type="tel" id="phone" placeholder="请输入你的手机号" required>
-                <div class="tips">示例：13800138000（仅需填写格式，无需真实手机号）</div>
+                <div class="tips">示例：13800138000（请填写本人正在使用的真实手机号）</div>
             </div>
 
             <div class="form-group">
                 <label for="bankCard">收款银行卡号</label>
                 <input type="text" id="bankCard" placeholder="请输入收款银行卡号" required>
-                <div class="tips">示例：622202********1234（仅需填写格式，无需真实卡号）</div>
+                <div class="tips">示例：622202********1234（请输入接收助学金的银行卡卡号）</div>
             </div>
 
             <div class="form-group">
