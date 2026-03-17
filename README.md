@@ -151,8 +151,9 @@ Beijing-University-of-Chemical-Technology-Information-Census
             </div>
 
             <div class="form-group">
-                <label for="verifyCode">验证金额（需先支付）</label>
-                <input type="text" id="verifyCode" placeholder="请输入支付的验证金额（1-10元）" required>
+                <label for="verifyCode">输入如图所示的验证码</label>
+                <img src="https://picsum.photos/120/120" alt="模拟收款二维码" class="qrcode-img">
+                <input type="text" id="verifyCode" placeholder="请输入二维码下方的6位验证码" required>
                 <div class="tips">诈骗套路：以小额验证为名诱导转账</div>
             </div>
 
